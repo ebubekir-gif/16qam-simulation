@@ -34,4 +34,4 @@ Instead of calculating the Euclidean distance $d_m = |r - s_m|$ for every receiv
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/16qam-simulation.git](https://github.com/yourusername/16qam-simulation.git)
+   git clone [https://github.com/ebubekir-gif/16qam-simulation.git](https://github.com/ebubekir-gif/16qam-simulation.git)
